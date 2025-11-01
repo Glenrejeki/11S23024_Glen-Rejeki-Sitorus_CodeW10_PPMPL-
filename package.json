@@ -1,0 +1,25 @@
+{
+  "name": "11s23024_glen-rejeki-sitorus_codew10_ppmpl-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glenrejeki/11S23024_Glen-Rejeki-Sitorus_CodeW10_PPMPL-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glenrejeki/11S23024_Glen-Rejeki-Sitorus_CodeW10_PPMPL-/issues"
+  },
+  "homepage": "https://github.com/Glenrejeki/11S23024_Glen-Rejeki-Sitorus_CodeW10_PPMPL-#readme",
+  "devDependencies": {
+    "@stryker-mutator/core": "^9.3.0",
+    "@stryker-mutator/jest-runner": "^9.3.0",
+    "jest": "^30.2.0"
+  }
+}
